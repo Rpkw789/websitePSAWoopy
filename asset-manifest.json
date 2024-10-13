@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/websitePSAWoopy/static/css/main.2150bd82.css",
-    "main.js": "/websitePSAWoopy/static/js/main.6485818d.js",
+    "main.js": "/websitePSAWoopy/static/js/main.911dff62.js",
     "static/js/760.36a3ddba.chunk.js": "/websitePSAWoopy/static/js/760.36a3ddba.chunk.js",
     "static/js/265.97293834.chunk.js": "/websitePSAWoopy/static/js/265.97293834.chunk.js",
     "static/media/alert.png": "/websitePSAWoopy/static/media/alert.dcf5f6d6dafebbcf4c26.png",
@@ -10,6 +10,6 @@
   },
   "entrypoints": [
     "static/css/main.2150bd82.css",
-    "static/js/main.6485818d.js"
+    "static/js/main.911dff62.js"
   ]
 }
