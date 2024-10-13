@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/websitePSAWoopy/static/css/main.2150bd82.css",
+    "main.js": "/websitePSAWoopy/static/js/main.6485818d.js",
+    "static/js/760.36a3ddba.chunk.js": "/websitePSAWoopy/static/js/760.36a3ddba.chunk.js",
+    "static/js/265.97293834.chunk.js": "/websitePSAWoopy/static/js/265.97293834.chunk.js",
+    "static/media/alert.png": "/websitePSAWoopy/static/media/alert.dcf5f6d6dafebbcf4c26.png",
+    "static/media/cargo-ship_870107.png": "/websitePSAWoopy/static/media/cargo-ship_870107.e6aa941c62d50bdb45c3.png",
+    "index.html": "/websitePSAWoopy/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.2150bd82.css",
+    "static/js/main.6485818d.js"
+  ]
+}
